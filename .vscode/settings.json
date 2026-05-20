@@ -1,0 +1,5 @@
+{
+  "json.schemaDownload.enable": true,
+  "deno.enable": false,
+  "deno.lint": false
+}

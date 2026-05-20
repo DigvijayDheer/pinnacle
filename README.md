@@ -131,8 +131,8 @@ Potential enhancements for the next phase:
 1. Clone the repository
 
 ```bash
-git clone <repo-url>
-cd pinnacle-nextjs
+git clone "https://github.com/DigvijayDheer/pinnacle.git"
+cd pinnacle
 ```
 
 2. Install dependencies

@@ -15,6 +15,7 @@ This is not a standard landing page. It is a designer-engineered interactive exp
 
 - Deployed preview: `https://pinnacle-ruby.vercel.app/`
 - Source repository: `https://github.com/DigvijayDheer/pinnacle`
+- Design & Technical Walkthrough: `https://docs.google.com/document/d/1eyzB5PX1nqN6Vbe_pM54kQkcqh3kpNKqyjnRpj838o8/edit?usp=sharing`
 
 ## Design Direction & Inspiration
 
